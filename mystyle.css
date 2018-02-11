@@ -1,0 +1,99 @@
+.home{
+    background-image: url("background.png");
+}
+.txt{
+    font-size: 1.5em;
+}
+
+#intro{
+    color: whitesmoke;
+    padding-left: 50px;
+    
+}
+#intro1{
+    color: whitesmoke;
+    padding-left: 50px;   
+}
+#email{
+    color: #ffffff;
+    padding-top: 1em;
+}
+#foot{
+    padding-top: 70px;
+}
+.cont{
+    background-image: url("background.png");
+}
+#conthead{
+    padding-top: 10em;
+    position: relative;
+    left: 40em;
+    font-family: cursive;
+    font-style: oblique;
+}
+.conleft{
+    border-style: solid;
+    background-color: black;
+}
+.phone{
+display: inline-block;    
+}
+.num{
+    padding-left: 1em;
+}
+
+.msg{
+    color: white;
+}
+.use{
+  color: whitesmoke;   
+}
+.alp{
+ color:#FFCA33;
+}
+#height{
+    display: inline-block;
+    width: 70%;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+#weight{
+    display: inline-block;
+    width: 70%;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+.btn{
+    margin-top: 2em;
+}
+
+#health-header{
+    color: rgb(77, 255, 77);
+    font-family: 'Courier New', Courier, monospace;  
+    text-align: center;
+}
+.dt{
+    color: whitesmoke;
+}
+.row{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+.form-group{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2ch;
+}
+.form-horizontal{
+    padding-top: 10em;
+}
+.contact{
+    padding-top: 10em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2ch;
+    text-align: center;
+    color: aqua;
+}
+.myImg{
+    width: 275px; height: 275px; border-radius:50%
+}
